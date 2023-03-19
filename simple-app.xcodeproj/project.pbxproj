@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		7312E63029C2BB0600654A3B /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7312E62F29C2BB0600654A3B /* main.swift */; };
+		734CAEFF29C69B2600899276 /* FunctionPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 734CAEFE29C69B2600899276 /* FunctionPractice.swift */; };
+		734CAF0129C69C9F00899276 /* ArrayPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 734CAF0029C69C9F00899276 /* ArrayPractice.swift */; };
+		734CAF0329C69D2F00899276 /* OptionalsPractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 734CAF0229C69D2F00899276 /* OptionalsPractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +28,9 @@
 /* Begin PBXFileReference section */
 		7312E62C29C2BB0600654A3B /* simple-app */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "simple-app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		7312E62F29C2BB0600654A3B /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		734CAEFE29C69B2600899276 /* FunctionPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunctionPractice.swift; sourceTree = "<group>"; };
+		734CAF0029C69C9F00899276 /* ArrayPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ArrayPractice.swift; sourceTree = "<group>"; };
+		734CAF0229C69D2F00899276 /* OptionalsPractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionalsPractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,9 @@
 			isa = PBXGroup;
 			children = (
 				7312E62F29C2BB0600654A3B /* main.swift */,
+				734CAEFE29C69B2600899276 /* FunctionPractice.swift */,
+				734CAF0029C69C9F00899276 /* ArrayPractice.swift */,
+				734CAF0229C69D2F00899276 /* OptionalsPractice.swift */,
 			);
 			path = "simple-app";
 			sourceTree = "<group>";
@@ -120,6 +129,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				734CAF0129C69C9F00899276 /* ArrayPractice.swift in Sources */,
+				734CAEFF29C69B2600899276 /* FunctionPractice.swift in Sources */,
+				734CAF0329C69D2F00899276 /* OptionalsPractice.swift in Sources */,
 				7312E63029C2BB0600654A3B /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
